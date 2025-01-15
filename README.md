@@ -1,4 +1,4 @@
-#StudentGradeTracker
+# StudentGradeTracker
 
 ## Description
 The **Student Grade Tracker** is a console-based Java application designed to track and calculate average grades for students. Users can enter multiple students' names and their respective grades, and the program will calculate and display the average grade for each student. This project demonstrates the use of Object-Oriented Programming (OOP) principles, such as creating classes, using ArrayLists, and calculating averages.
